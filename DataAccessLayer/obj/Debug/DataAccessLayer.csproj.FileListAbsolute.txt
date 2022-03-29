@@ -1,0 +1,9 @@
+C:\Users\rawalj\source\repos\ManageUserAPI\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\rawalj\source\repos\ManageUserAPI\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\rawalj\source\repos\ManageUserAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rawalj\source\repos\ManageUserAPI\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\rawalj\source\repos\ManageUserAPI\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\rawalj\source\repos\ManageUserAPI\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rawalj\source\repos\ManageUserAPI\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rawalj\source\repos\ManageUserAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\rawalj\source\repos\ManageUserAPI\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache

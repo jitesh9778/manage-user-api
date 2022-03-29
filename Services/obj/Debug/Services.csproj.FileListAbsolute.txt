@@ -1,0 +1,11 @@
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\bin\Debug\Services.dll
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\bin\Debug\Services.pdb
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\bin\Debug\DataAccessLayer.dll
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\bin\Debug\DataAccessLayer.pdb
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\obj\Debug\Services.dll
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\obj\Debug\Services.pdb
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rawalj\source\repos\ManageUserAPI\Services\bin\Debug\Newtonsoft.Json.xml
